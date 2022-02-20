@@ -1,0 +1,5 @@
+name: MFapi
+version: '1.0-SNAPSHOT'
+main: br.com.maggovix.mfapi.Main
+api-version: 1.16
+authors: [ MaggoVix ]

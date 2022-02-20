@@ -1,0 +1,5 @@
+main: br.com.maggovix.mfapi.Main
+version: 1.0
+name: MFapi
+commands:
+  MFapi:
